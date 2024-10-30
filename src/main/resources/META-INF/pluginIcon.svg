@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+	<!-- Gradient-filled square -->
+	<defs>
+		<linearGradient id="gradient1" x1="13" y1="50" x2="87" y2="50" gradientUnits="userSpaceOnUse">
+			<stop offset="0.1" stop-color="#00732A"/>
+			<stop offset="1" stop-color="#00A209"/>
+		</linearGradient>
+	</defs>
+
+	<!-- Square with gradient -->
+	<rect x="13" y="13" width="74" height="74" rx="6" fill="url(#gradient1)"/>
+
+	<!-- Plus sign in white -->
+	<polygon fill="#FFFFFF" points="87,34.42 87,43.96 66.77,43.96 66.77,69 57.23,69 57.23,43.96 31,43.96 31,34.42 57.23,34.42 57.23,13 66.77,13 66.77,34.42"/>
+</svg>
