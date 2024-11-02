@@ -1,4 +1,4 @@
-package com.git.commit.commitchecker.panel
+package com.git.commit.untrackedfilecheker.panel
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.ui.DialogWrapper
@@ -10,7 +10,6 @@ import com.intellij.ui.components.JBScrollPane
 import java.awt.BorderLayout
 import java.awt.Dimension
 import java.awt.FlowLayout
-import java.awt.event.MouseAdapter
 import javax.swing.*
 
 

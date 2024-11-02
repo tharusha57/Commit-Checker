@@ -1,6 +1,6 @@
-package com.git.commit.commitchecker.utils
+package com.git.commit.untrackedfilecheker.utils
 
-import com.git.commit.commitchecker.revision.GitContentRevision
+import com.git.commit.untrackedfilecheker.revision.GitContentRevision
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.vcs.FilePath
 import com.intellij.openapi.vcs.FileStatus

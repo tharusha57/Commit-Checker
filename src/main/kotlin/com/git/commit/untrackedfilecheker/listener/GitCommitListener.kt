@@ -1,7 +1,7 @@
-package com.git.commit.commitchecker.listener
+package com.git.commit.untrackedfilecheker.listener
 
-import com.git.commit.commitchecker.panel.UntrackedFilesDialog
-import com.git.commit.commitchecker.utils.GitUtils
+import com.git.commit.untrackedfilecheker.panel.UntrackedFilesDialog
+import com.git.commit.untrackedfilecheker.utils.GitUtils
 import com.intellij.openapi.vcs.CheckinProjectPanel
 import com.intellij.openapi.vcs.changes.CommitContext
 import com.intellij.openapi.vcs.checkin.CheckinHandler

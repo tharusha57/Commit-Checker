@@ -1,4 +1,4 @@
-package com.git.commit.commitchecker.notification
+package com.git.commit.untrackedfilecheker.notification
 
 import com.intellij.notification.NotificationGroupManager
 import com.intellij.notification.NotificationType

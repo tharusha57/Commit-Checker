@@ -1,4 +1,4 @@
-package com.git.commit.commitchecker.revision
+package com.git.commit.untrackedfilecheker.revision
 
 import com.intellij.openapi.vcs.FilePath
 import com.intellij.openapi.vcs.changes.ContentRevision
